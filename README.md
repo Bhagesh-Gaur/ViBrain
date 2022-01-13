@@ -5,7 +5,7 @@ Worked on a commuting device and its support application for the visually impair
 
 Links to interviews with volunteers [Anjanay][4] and [Ojus][5] regarding the problem statements.
 
-Link to a [focus group discussion][6] with volunteers.
+Link to a [focus group discussion][6] with volunteers regarding prototype feedback.
 
 The High-Fidelity prototype of support application is available with the name 6_8.fig or view using this [Link][3].
 
