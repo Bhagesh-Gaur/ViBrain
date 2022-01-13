@@ -11,4 +11,4 @@ ViBrain Support Application Demo [Link][2].
 
 [1]: https://drive.google.com/file/d/1TaNc6Bq64s1vZo77oFaJ4LdHGZ-Nzgw4/view?usp=sharing
 [2]: https://youtu.be/8G76Yl9aVRM
-[3]: https://www.figma.com/file/9qre297vq89Rc5LWll37h8/6_8?node-id=0%3A1
+[3]: https://www.figma.com/proto/9qre297vq89Rc5LWll37h8/6_8?node-id=110%3A23&scaling=scale-down&page-id=0%3A1&starting-point-node-id=110%3A23&show-proto-sidebar=1
